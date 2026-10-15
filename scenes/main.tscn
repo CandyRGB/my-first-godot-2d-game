@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://cj3pmtgk0l02y"]
 
-[ext_resource type="Script" uid="uid://dhnwixuyx1rh5" path="res://main.gd" id="1_0xm2m"]
-[ext_resource type="PackedScene" uid="uid://bwumsqo5lblin" path="res://player.tscn" id="1_ig7tw"]
-[ext_resource type="PackedScene" uid="uid://dfeayvqpgq2i" path="res://mob.tscn" id="2_h2yge"]
-[ext_resource type="PackedScene" uid="uid://g63nlrpoglka" path="res://hud.tscn" id="4_1bvp3"]
+[ext_resource type="Script" uid="uid://dhnwixuyx1rh5" path="res://scripts/main.gd" id="1_0xm2m"]
+[ext_resource type="PackedScene" uid="uid://bwumsqo5lblin" path="res://scenes/player.tscn" id="1_ig7tw"]
+[ext_resource type="PackedScene" uid="uid://dfeayvqpgq2i" path="res://scenes/mob.tscn" id="2_h2yge"]
+[ext_resource type="PackedScene" uid="uid://g63nlrpoglka" path="res://scenes/hud.tscn" id="4_1bvp3"]
 [ext_resource type="AudioStream" uid="uid://tis6ln2e13gv" path="res://art/House In a Forest Loop.ogg" id="5_7mycd"]
 [ext_resource type="AudioStream" uid="uid://cxwiggvqyl4ub" path="res://art/gameover.wav" id="6_272bh"]
 

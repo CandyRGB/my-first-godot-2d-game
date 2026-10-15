@@ -25,6 +25,8 @@
 first_2d/
 ├── art/            # 美术与音频资源（角色、敌人、音效、背景音乐等）
 ├── fonts/          # 字体文件（Xolonium）
+├── scenes/         # 游戏场景（main / player / mob / hud）
+├── scripts/        # GDScript 脚本（main / player / mob / hud）
 ├── icon.svg        # 项目图标
 └── project.godot   # Godot 项目配置文件
 ```
